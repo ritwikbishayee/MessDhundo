@@ -1,0 +1,424 @@
+{
+  "rooms": [
+    {
+      "id": "1",
+      "agency": "BestStay Agency",
+      "images": [
+        "./images/image-1.jpg",
+        "./images/image-2.jpg",
+        "./images/image-3.jpg",
+        "./images/image-4.jpg"
+      ],
+      "type": "PG",
+      "bhk": "2BHK",
+      "rating": 4,
+      "beds": 2,
+      "bathrooms": 1,
+      "rate": "RS 3000/person",
+      "location": "Kalyani",
+      "mapUrl": "https://www.google.com/maps/place/NYC+Rooms+4+Rent,+606+W+145th+St,+New+York,+NY+10031,+United+States/@40.8265121,-73.9510974,15z/data=!4m6!3m5!1s0x89c2f663af4add67:0xceeaef56720db84f!8m2!3d40.8265121!4d-73.9510974!16s%2Fg%2F1thxl_jm",
+      "phn": "7000356899",
+      "description": "A cozy room in the heart of the city."
+    },
+    {
+      "id": "2",
+      "agency": "CozyStay Rentals",
+      "images": [
+        "./images/image-5.jpg",
+        "./images/image-6.jpg",
+        "./images/image-7.jpg",
+        "./images/image-8.jpg"
+      ],
+      "type": "PG",
+      "bhk": "2BHK",
+      "rating": 3,
+      "beds": 2,
+      "bathrooms": 1,
+      "rate": "RS 2500/person",
+      "location": "Kalyani",
+      "mapUrl": "https://www.google.com/maps/place/NYC+Rooms+4+Rent,+606+W+145th+St,+New+York,+NY+10031,+United+States/@40.8265121,-73.9510974,15z/data=!4m6!3m5!1s0x89c2f663af4add67:0xceeaef56720db84f!8m2!3d40.8265121!4d-73.9510974!16s%2Fg%2F1thxl_jm",
+      "phn": "7000356899",
+      "description": "A budget-friendly room with all essentials."
+    },
+    {
+      "id": "3",
+      "agency": "Comfort Homes",
+      "images": [
+        "./images/image-9.jpg",
+        "./images/image-10.jpg",
+        "./images/image-11.jpg",
+        "./images/image-12.jpg"
+      ],
+      "type": "PG",
+      "bhk": "2BHK",
+      "rating": 5,
+      "beds": 2,
+      "bathrooms": 1,
+      "rate": "RS 3500/person",
+      "location": "Kalyani",
+      "mapUrl": "https://www.google.com/maps/place/NYC+Rooms+4+Rent,+606+W+145th+St,+New+York,+NY+10031,+United+States/@40.8265121,-73.9510974,15z/data=!4m6!3m5!1s0x89c2f663af4add67:0xceeaef56720db84f!8m2!3d40.8265121!4d-73.9510974!16s%2Fg%2F1thxl_jm",
+      "phn": "7000356899",
+      "description": "Spacious and luxurious living space."
+    },
+    {
+      "id": "4",
+      "agency": "Urban Retreats",
+      "images": [
+        "./images/image-13.jpg",
+        "./images/image-14.jpg",
+        "./images/image-15.jpg",
+        "./images/image-16.jpg"
+      ],
+      "type": "PG",
+      "bhk": "2BHK",
+      "rating": 4,
+      "beds": 2,
+      "bathrooms": 1,
+      "rate": "RS 3000/person",
+      "location": "Kalyani",
+      "mapUrl": "https://www.google.com/maps/place/NYC+Rooms+4+Rent,+606+W+145th+St,+New+York,+NY+10031,+United+States/@40.8265121,-73.9510974,15z/data=!4m6!3m5!1s0x89c2f663af4add67:0xceeaef56720db84f!8m2!3d40.8265121!4d-73.9510974!16s%2Fg%2F1thxl_jm",
+      "phn": "7000356899",
+      "description": "Modern amenities with a homely vibe."
+    },
+    {
+      "id": "5",
+      "agency": "DreamSpace Rentals",
+      "images": [
+        "./images/image-17.jpg",
+        "./images/image-18.jpg",
+        "./images/image-19.jpg",
+        "./images/image-20.jpg"
+      ],
+      "type": "PG",
+      "bhk": "2BHK",
+      "rating": 3,
+      "beds": 2,
+      "bathrooms": 1,
+      "rate": "RS 2800/person",
+      "location": "Kalyani",
+      "mapUrl": "https://www.google.com/maps/place/NYC+Rooms+4+Rent,+606+W+145th+St,+New+York,+NY+10031,+United+States/@40.8265121,-73.9510974,15z/data=!4m6!3m5!1s0x89c2f663af4add67:0xceeaef56720db84f!8m2!3d40.8265121!4d-73.9510974!16s%2Fg%2F1thxl_jm",
+      "phn": "7000356899",
+      "description": "An affordable stay in a great location."
+    },
+    {
+      "id": "6",
+      "agency": "HavenStay",
+      "images": [
+        "./images/image-21.jpg",
+        "./images/image-22.jpg",
+        "./images/image-23.jpg",
+        "./images/image-24.jpg"
+      ],
+      "type": "PG",
+      "bhk": "2BHK",
+      "rating": 5,
+      "beds": 2,
+      "bathrooms": 1,
+      "rate": "RS 3200/person",
+      "location": "Kalyani",
+      "mapUrl": "https://www.google.com/maps/place/NYC+Rooms+4+Rent,+606+W+145th+St,+New+York,+NY+10031,+United+States/@40.8265121,-73.9510974,15z/data=!4m6!3m5!1s0x89c2f663af4add67:0xceeaef56720db84f!8m2!3d40.8265121!4d-73.9510974!16s%2Fg%2F1thxl_jm",
+      "phn": "7000356899",
+      "description": "A peaceful escape with modern facilities."
+    },
+    {
+      "id": "7",
+      "agency": "StayBetter Agency",
+      "images": [
+        "./images/image-25.jpg",
+        "./images/image-26.jpg",
+        "./images/image-27.jpg",
+        "./images/image-28.jpg"
+      ],
+      "type": "PG",
+      "bhk": "2BHK",
+      "rating": 4,
+      "beds": 2,
+      "bathrooms": 1,
+      "rate": "RS 3100/person",
+      "location": "Kalyani",
+      "mapUrl": "https://www.google.com/maps/place/NYC+Rooms+4+Rent,+606+W+145th+St,+New+York,+NY+10031,+United+States/@40.8265121,-73.9510974,15z/data=!4m6!3m5!1s0x89c2f663af4add67:0xceeaef56720db84f!8m2!3d40.8265121!4d-73.9510974!16s%2Fg%2F1thxl_jm",
+      "phn": "7000356899",
+      "description": "Comfort and affordability in one package."
+    },
+    {
+      "id": "8",
+      "agency": "PrimeStay Agency",
+      "images": [
+        "./images/image-29.jpg",
+        "./images/image-30.jpg",
+        "./images/image-31.jpg",
+        "./images/image-32.jpg"
+      ],
+      "type": "PG",
+      "bhk": "2BHK",
+      "rating": 4,
+      "beds": 2,
+      "bathrooms": 1,
+      "rate": "RS 3400/person",
+      "location": "Kalyani",
+      "mapUrl": "https://www.google.com/maps/place/NYC+Rooms+4+Rent,+606+W+145th+St,+New+York,+NY+10031,+United+States/@40.8265121,-73.9510974,15z/data=!4m6!3m5!1s0x89c2f663af4add67:0xceeaef56720db84f!8m2!3d40.8265121!4d-73.9510974!16s%2Fg%2F1thxl_jm",
+      "phn": "7000356899",
+      "description": "A well-maintained stay for professionals."
+    },
+    {
+      "id": "9",
+      "agency": "EliteStay Agency",
+      "images": [
+        "./images/image-33.jpg",
+        "./images/image-34.jpg",
+        "./images/image-35.jpg",
+        "./images/image-36.jpg"
+      ],
+      "type": "PG",
+      "bhk": "2BHK",
+      "rating": 5,
+      "beds": 2,
+      "bathrooms": 1,
+      "rate": "RS 3600/person",
+      "location": "Kalyani",
+      "mapUrl": "https://www.google.com/maps/place/NYC+Rooms+4+Rent,+606+W+145th+St,+New+York,+NY+10031,+United+States/@40.8265121,-73.9510974,15z/data=!4m6!3m5!1s0x89c2f663af4add67:0xceeaef56720db84f!8m2!3d40.8265121!4d-73.9510974!16s%2Fg%2F1thxl_jm",
+      "phn": "7000356899",
+      "description": "Premium accommodation with exclusive features."
+    },
+    {
+      "id": "10",
+      "agency": "NextGen Rentals",
+      "images": [
+        "./images/image-37.jpg",
+        "./images/image-38.jpg",
+        "./images/image-39.jpg",
+        "./images/image-40.jpg"
+      ],
+      "type": "PG",
+      "bhk": "2BHK",
+      "rating": 4,
+      "beds": 2,
+      "bathrooms": 1,
+      "rate": "RS 3300/person",
+      "location": "Kalyani",
+      "mapUrl": "https://www.google.com/maps/place/NYC+Rooms+4+Rent,+606+W+145th+St,+New+York,+NY+10031,+United+States/@40.8265121,-73.9510974,15z/data=!4m6!3m5!1s0x89c2f663af4add67:0xceeaef56720db84f!8m2!3d40.8265121!4d-73.9510974!16s%2Fg%2F1thxl_jm",
+      "phn": "7000356899",
+      "description": "The perfect blend of comfort and location."
+    },
+    {
+      "id": "11",
+      "agency": "StayHaven Agency",
+      "images": [
+        "./images/image-41.jpg",
+        "./images/image-42.jpg",
+        "./images/image-43.jpg",
+        "./images/image-44.jpg"
+      ],
+      "type": "PG",
+      "bhk": "2BHK",
+      "rating": 4,
+      "beds": 2,
+      "bathrooms": 1,
+      "rate": "RS 2900/person",
+      "location": "Kalyani",
+      "mapUrl": "https://www.google.com/maps/place/NYC+Rooms+4+Rent,+606+W+145th+St,+New+York,+NY+10031,+United+States/@40.8265121,-73.9510974,15z/data=!4m6!3m5!1s0x89c2f663af4add67:0xceeaef56720db84f!8m2!3d40.8265121!4d-73.9510974!16s%2Fg%2F1thxl_jm",
+      "phn": "7000356899",
+      "description": "Affordable and convenient living space."
+    },
+    {
+      "id": "12",
+      "agency": "CityComfort Rentals",
+      "images": [
+        "./images/image-45.jpg",
+        "./images/image-46.jpg",
+        "./images/image-47.jpg",
+        "./images/image-48.jpg"
+      ],
+      "type": "PG",
+      "bhk": "2BHK",
+      "rating": 3,
+      "beds": 2,
+      "bathrooms": 1,
+      "rate": "RS 2700/person",
+      "location": "Kalyani",
+      "mapUrl": "https://www.google.com/maps/place/NYC+Rooms+4+Rent,+606+W+145th+St,+New+York,+NY+10031,+United+States/@40.8265121,-73.9510974,15z/data=!4m6!3m5!1s0x89c2f663af4add67:0xceeaef56720db84f!8m2!3d40.8265121!4d-73.9510974!16s%2Fg%2F1thxl_jm",
+      "phn": "7000356899",
+      "description": "Cozy and budget-friendly rooms."
+    },
+    {
+      "id": "13",
+      "agency": "UrbanStay Rentals",
+      "images": [
+        "./images/image-49.jpg",
+        "./images/image-50.jpg",
+        "./images/image-51.jpg",
+        "./images/image-52.jpg"
+      ],
+      "type": "PG",
+      "bhk": "2BHK",
+      "rating": 4,
+      "beds": 2,
+      "bathrooms": 1,
+      "rate": "RS 3100/person",
+      "location": "Kalyani",
+      "mapUrl": "https://www.google.com/maps/place/NYC+Rooms+4+Rent,+606+W+145th+St,+New+York,+NY+10031,+United+States/@40.8265121,-73.9510974,15z/data=!4m6!3m5!1s0x89c2f663af4add67:0xceeaef56720db84f!8m2!3d40.8265121!4d-73.9510974!16s%2Fg%2F1thxl_jm",
+      "phn": "7000356899",
+      "description": "Central location with modern amenities."
+    },
+    {
+      "id": "14",
+      "agency": "LuxuryStay Co.",
+      "images": [
+        "./images/image-53.jpg",
+        "./images/image-54.jpg",
+        "./images/image-55.jpg",
+        "./images/image-56.jpg"
+      ],
+      "type": "PG",
+      "bhk": "2BHK",
+      "rating": 5,
+      "beds": 2,
+      "bathrooms": 1,
+      "rate": "RS 4000/person",
+      "location": "Kalyani",
+      "mapUrl": "https://www.google.com/maps/place/NYC+Rooms+4+Rent,+606+W+145th+St,+New+York,+NY+10031,+United+States/@40.8265121,-73.9510974,15z/data=!4m6!3m5!1s0x89c2f663af4add67:0xceeaef56720db84f!8m2!3d40.8265121!4d-73.9510974!16s%2Fg%2F1thxl_jm",
+      "phn": "7000356899",
+      "description": "Elegant and stylish accommodations."
+    },
+    {
+      "id": "15",
+      "agency": "CityScape Rentals",
+      "images": [
+        "./images/image-57.jpg",
+        "./images/image-58.jpg",
+        "./images/image-59.jpg",
+        "./images/image-60.jpg"
+      ],
+      "type": "PG",
+      "bhk": "2BHK",
+      "rating": 4,
+      "beds": 2,
+      "bathrooms": 1,
+      "rate": "RS 3200/person",
+      "location": "Kalyani",
+      "mapUrl": "https://www.google.com/maps/place/NYC+Rooms+4+Rent,+606+W+145th+St,+New+York,+NY+10031,+United+States/@40.8265121,-73.9510974,15z/data=!4m6!3m5!1s0x89c2f663af4add67:0xceeaef56720db84f!8m2!3d40.8265121!4d-73.9510974!16s%2Fg%2F1thxl_jm",
+      "phn": "7000356899",
+      "description": "Perfect for students and working professionals."
+    },
+    {
+      "id": "16",
+      "agency": "Urban Comfort Agency",
+      "images": [
+        "./images/image-61.jpg",
+        "./images/image-62.jpg",
+        "./images/image-63.jpg",
+        "./images/image-64.jpg"
+      ],
+      "type": "PG",
+      "bhk": "2BHK",
+      "rating": 3,
+      "beds": 2,
+      "bathrooms": 1,
+      "rate": "RS 2800/person",
+      "location": "Kalyani",
+      "mapUrl": "https://www.google.com/maps/place/NYC+Rooms+4+Rent,+606+W+145th+St,+New+York,+NY+10031,+United+States/@40.8265121,-73.9510974,15z/data=!4m6!3m5!1s0x89c2f663af4add67:0xceeaef56720db84f!8m2!3d40.8265121!4d-73.9510974!16s%2Fg%2F1thxl_jm",
+      "phn": "7000356899",
+      "description": "An economical stay in a great location."
+    },
+    {
+      "id": "17",
+      "agency": "Premium Rentals Co.",
+      "images": [
+        "./images/image-65.jpg",
+        "./images/image-66.jpg",
+        "./images/image-67.jpg",
+        "./images/image-68.jpg"
+      ],
+      "type": "PG",
+      "bhk": "2BHK",
+      "rating": 5,
+      "beds": 2,
+      "bathrooms": 1,
+      "rate": "RS 3700/person",
+      "location": "Kalyani",
+      "mapUrl": "https://www.google.com/maps/place/NYC+Rooms+4+Rent,+606+W+145th+St,+New+York,+NY+10031,+United+States/@40.8265121,-73.9510974,15z/data=!4m6!3m5!1s0x89c2f663af4add67:0xceeaef56720db84f!8m2!3d40.8265121!4d-73.9510974!16s%2Fg%2F1thxl_jm",
+      "phn": "7000356899",
+      "description": "Exquisite spaces for a premium experience."
+    },
+    {
+      "id": "18",
+      "agency": "EcoStay Agency",
+      "images": [
+        "./images/image-69.jpg",
+        "./images/image-70.jpg",
+        "./images/image-71.jpg",
+        "./images/image-72.jpg"
+      ],
+      "type": "PG",
+      "bhk": "2BHK",
+      "rating": 4,
+      "beds": 2,
+      "bathrooms": 1,
+      "rate": "RS 3000/person",
+      "location": "Kalyani",
+      "mapUrl": "https://www.google.com/maps/place/NYC+Rooms+4+Rent,+606+W+145th+St,+New+York,+NY+10031,+United+States/@40.8265121,-73.9510974,15z/data=!4m6!3m5!1s0x89c2f663af4add67:0xceeaef56720db84f!8m2!3d40.8265121!4d-73.9510974!16s%2Fg%2F1thxl_jm",
+      "phn": "7000356899",
+      "description": "Eco-friendly rooms for sustainable living."
+    },
+    {
+      "id": "19",
+      "agency": "BudgetStay Rentals",
+      "images": [
+        "./images/image-73.jpg",
+        "./images/image-74.jpg",
+        "./images/image-75.jpg",
+        "./images/image-76.jpg"
+      ],
+      "type": "PG",
+      "bhk": "2BHK",
+      "rating": 3,
+      "beds": 2,
+      "bathrooms": 1,
+      "rate": "RS 2600/person",
+      "location": "Kalyani",
+      "mapUrl": "https://www.google.com/maps/place/NYC+Rooms+4+Rent,+606+W+145th+St,+New+York,+NY+10031,+United+States/@40.8265121,-73.9510974,15z/data=!4m6!3m5!1s0x89c2f663af4add67:0xceeaef56720db84f!8m2!3d40.8265121!4d-73.9510974!16s%2Fg%2F1thxl_jm",
+      "phn": "7000356899",
+      "description": "Affordable and comfortable rooms."
+    },
+    {
+      "id": "20",
+      "agency": "Vista Rentals",
+      "images": [
+        "./images/image-77.jpg",
+        "./images/image-78.jpg",
+        "./images/image-79.jpg",
+        "./images/image-80.jpg"
+      ],
+      "type": "PG",
+      "bhk": "2BHK",
+      "rating": 5,
+      "beds": 2,
+      "bathrooms": 1,
+      "rate": "RS 3500/person",
+      "location": "Kalyani",
+      "mapUrl": "https://www.google.com/maps/place/NYC+Rooms+4+Rent,+606+W+145th+St,+New+York,+NY+10031,+United+States/@40.8265121,-73.9510974,15z/data=!4m6!3m5!1s0x89c2f663af4add67:0xceeaef56720db84f!8m2!3d40.8265121!4d-73.9510974!16s%2Fg%2F1thxl_jm",
+      "phn": "7000356899",
+      "description": "Luxury with a view, designed for comfort."
+    },
+    {
+      "id": "21",
+      "agency": "Skyline Rentals",
+      "images": [
+        "./images/image-81.jpg",
+        "./images/image-82.jpg",
+        "./images/image-83.jpg",
+        "./images/image-84.jpg"
+      ],
+      "type": "PG",
+      "bhk": "2BHK",
+      "rating": 4,
+      "beds": 2,
+      "bathrooms": 1,
+      "rate": "RS 3200/person",
+      "location": "Kalyani",
+      "mapUrl": "https://www.google.com/maps/place/NYC+Rooms+4+Rent,+606+W+145th+St,+New+York,+NY+10031,+United+States/@40.8265121,-73.9510974,15z/data=!4m6!3m5!1s0x89c2f663af4add67:0xceeaef56720db84f!8m2!3d40.8265121!4d-73.9510974!16s%2Fg%2F1thxl_jm",
+      "phn": "7000356899",
+      "description": "Urban elegance with premium amenities."
+    }
+  ]
+}
